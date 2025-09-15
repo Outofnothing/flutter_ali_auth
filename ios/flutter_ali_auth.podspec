@@ -20,7 +20,7 @@ Flutter Ali Auth Plugin 阿里云一键登录Flutter插件
   s.dependency 'Flutter'
   s.dependency 'SDWebImage'
   s.dependency 'MJExtension'
-  s.dependency 'MBProgressHUD'
+  s.dependency 'MBProgressHUD', '~> 2.3.1'
 
   s.platform = :ios, '12.0'
 
